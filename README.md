@@ -16,10 +16,13 @@
 git clone https://github.com/yourusername/currency_analyzer.git
 
 cd currency_analyzer
+
 go run ./cmd/analyzer 
 
 либо 
 
 cd cmd
+
 cd analyzer
+
 go run main.go
